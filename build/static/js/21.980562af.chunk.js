@@ -1,0 +1,2 @@
+(this["webpackJsonpamplify-song-app"]=this["webpackJsonpamplify-song-app"]||[]).push([[21],{326:function(n,t,e){"use strict";e.r(t),e.d(t,"amplify_container",(function(){return c}));var i=e(22),c=function(){function n(n){Object(i.k)(this,n)}return n.prototype.render=function(){return Object(i.i)(i.b,null,Object(i.i)("slot",null))},n}();c.style="amplify-container{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=21.980562af.chunk.js.map
